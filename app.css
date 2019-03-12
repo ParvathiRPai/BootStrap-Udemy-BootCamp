@@ -1,0 +1,26 @@
+h1
+{
+	color: purple;
+	font-weight: 700;
+	text-shadow:  0px 4px 3px red;
+}
+body 
+{
+	background: url(https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg);
+	background-size: cover;
+	background-position: center;
+}
+#content
+{
+	text-align: center;
+	padding-top:25%;
+}
+html
+{
+	height: 100;
+}
+hr
+{
+	width: 400px;
+	border-top: 1px solid pink;
+}
